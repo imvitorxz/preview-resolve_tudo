@@ -1,5 +1,5 @@
 # 🧮 - Resolve Tudo
-### [Acesse aqui](https://vitukjkk.github.io/Resolve-Tudo-PAGES/)
+### [Acesse aqui](https://imvitorxz.github.io/Resolve-Tudo-PAGES/)
 Resolve Tudo é um site web desenvolvido para facilitar a realização de diversos tipos de cálculos. Seja para fins acadêmicos, profissionais ou pessoais, o Resolve Tudo oferece uma interface intuitiva para cálculos rápidos e precisos.
 
 ## 🖥 - Tecnologias
